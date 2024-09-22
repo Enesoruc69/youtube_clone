@@ -23,5 +23,5 @@
 - Moment.js: For formatting dates and times
 - React Router DOM: For handling routing between different pages in the app
 
-![](/Users/macbookpro/Downloads/Ekran Kaydı 2024-09-16 22.32.23.gif)# youtube_clone
+![GIF](/Users/macbookpro/Downloads/Ekran Kaydı 2024-09-16 22.32.23.gif)
 
