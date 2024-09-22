@@ -1,16 +1,16 @@
 ## YouTube Clone Project
 
--This is a YouTube clone built using React. The application allows users to browse videos, play content, and interact with the UI similar to YouTube. Several powerful libraries such as Axios, React-player, Tailwind CSS, and more were used to create a smooth and responsive user experience.
+- This is a YouTube clone built using React. The application allows users to browse videos, play content, and interact with the UI similar to YouTube. Several powerful libraries such as Axios, React-player, Tailwind CSS, and more were used to create a smooth and responsive user experience.
 
 ## Features
 
--Video Browsing and Search: Users can browse a list of videos and search for specific content.
--Responsive UI: Built with Tailwind CSS for responsive and modern design.
--Video Player: Videos are played using React-player, which provides a flexible and customizable player.
--Number Formatting: Large numbers such as view counts are formatted using Millify for better readability.
--Time Formatting: The Moment library is used to display time in a human-readable format.
--Routing: Navigation between pages is handled by React Router DOM.
--Data Fetching: Video data is fetched from a YouTube API using Axios.
+- Video Browsing and Search: Users can browse a list of videos and search for specific content.
+- Responsive UI: Built with Tailwind CSS for responsive and modern design.
+- Video Player: Videos are played using React-player, which provides a flexible and customizable player.
+- Number Formatting: Large numbers such as view counts are formatted using Millify for better readability.
+- Time Formatting: The Moment library is used to display time in a human-readable format.
+- Routing: Navigation between pages is handled by React Router DOM.
+- Data Fetching: Video data is fetched from a YouTube API using Axios.
 
 ## Technologies Used
 
